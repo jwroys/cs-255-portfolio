@@ -4,8 +4,8 @@
 DriverPass System Analysis and Design
 
 ## Repository Contents
-- Business Requirements Document
-- System Design Document
+- [Business Requirements Document](DriverPass_Business_Requirements.docx)
+- [System Design Document](DriverPass_System_Design.docx)
 - Reflection Journal
 
 ## Reflection
